@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/pwa-katas/static/js/main.e8e690ca.chunk.js",
+    "main.js.map": "/pwa-katas/static/js/main.e8e690ca.chunk.js.map",
+    "runtime-main.js": "/pwa-katas/static/js/runtime-main.a6d59694.js",
+    "runtime-main.js.map": "/pwa-katas/static/js/runtime-main.a6d59694.js.map",
+    "static/js/2.dc74891f.chunk.js": "/pwa-katas/static/js/2.dc74891f.chunk.js",
+    "static/js/2.dc74891f.chunk.js.map": "/pwa-katas/static/js/2.dc74891f.chunk.js.map",
+    "index.html": "/pwa-katas/index.html",
+    "service-worker.js": "/pwa-katas/service-worker.js",
+    "service-worker.js.map": "/pwa-katas/service-worker.js.map",
+    "static/js/2.dc74891f.chunk.js.LICENSE.txt": "/pwa-katas/static/js/2.dc74891f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6d59694.js",
+    "static/js/2.dc74891f.chunk.js",
+    "static/js/main.e8e690ca.chunk.js"
+  ]
+}
